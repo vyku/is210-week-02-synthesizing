@@ -10,7 +10,7 @@ Synthesizing Tasks
 :Course-Code: IS 210
 :Lesson: 02
 :Points: 18
-:Due-Date: YYYY-MM-DDTHH:mm:ss
+:Due-Date: 2015-02-09T09:00:00
 
 Overview
 ========
